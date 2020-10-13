@@ -9,7 +9,11 @@
     "lodash": "^4.17.19",
     "next": "^9.5.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "rich-markdown-editor": "^11.0.2",
+    "slate": "^0.59.0",
+    "slate-react": "^0.59.0",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
